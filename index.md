@@ -22,18 +22,31 @@ I’m Lee Kantowski, a former U.S. Army officer with experience in consulting, d
 </div>
 </section>
 
+<aside class="feature-note" aria-label="Press mention">
+  <span class="feature-note__mark" aria-hidden="true">In the press</span>
+  <p>Featured in <a href="https://www.nytimes.com/interactive/2025/12/12/opinion/editorials/us-military-recruitment-culture.html" target="_blank" rel="noopener noreferrer">The New York Times <span class="external-indicator" aria-hidden="true">↗</span></a></p>
+</aside>
+
 <section class="home-section" aria-labelledby="experience-at-a-glance">
   <div class="section-heading">
-    <p class="eyebrow">A career across teams and missions</p>
+    <p class="eyebrow">Education, teams, and missions</p>
     <h2 id="experience-at-a-glance">Experience at a glance</h2>
   </div>
   <ol class="timeline timeline--home">
     <li class="timeline__item">
-      <p class="timeline__date">Summer 2026</p>
+      <p class="timeline__date">2013–2017</p>
       <div>
-        <h3>McKinsey &amp; Company</h3>
-        <p class="timeline__role">Summer Associate · Seattle, WA</p>
-        <p>Supported an aerospace and defense manufacturer, improving throughput and utilization by 15–20% across two work centers.</p>
+        <h3>United States Military Academy</h3>
+        <p class="timeline__role">B.S., Engineering Management · West Point, NY</p>
+        <p>Earned the Superintendent’s Award for Achievement and made the Dean’s List for three semesters. Member of the powerlifting team for three years and a two-time varsity letterman.</p>
+      </div>
+    </li>
+    <li class="timeline__item">
+      <p class="timeline__date">2017–2025</p>
+      <div>
+        <h3>United States Army</h3>
+        <p class="timeline__role">Leadership and operational roles in the U.S. and Indo-Pacific</p>
+        <p>Led teams, managed resources, and improved planning and digital workflows across complex missions.</p>
       </div>
     </li>
     <li class="timeline__item">
@@ -45,18 +58,21 @@ I’m Lee Kantowski, a former U.S. Army officer with experience in consulting, d
       </div>
     </li>
     <li class="timeline__item">
-      <p class="timeline__date">2017–2025</p>
+      <p class="timeline__date">Class of 2027</p>
       <div>
-        <h3>United States Army</h3>
-        <p class="timeline__role">Leadership and operational roles in the U.S. and Indo-Pacific</p>
-        <p>Led teams, managed resources, and improved planning and digital workflows across complex missions.</p>
+        <h3>UC Berkeley Haas School of Business</h3>
+        <p class="timeline__role">Master of Business Administration · Berkeley, CA</p>
+        <p>Co-founder and co-president of the Defense and Dual-Use Technology Club at Berkeley, a student organization connecting Berkeley students with companies, investors, and leaders at the intersection of national security and technology.</p>
+      </div>
+    </li>
+    <li class="timeline__item">
+      <p class="timeline__date">Summer 2026</p>
+      <div>
+        <h3>McKinsey &amp; Company</h3>
+        <p class="timeline__role">Summer Associate · Seattle, WA</p>
+        <p>Supported an aerospace and defense manufacturer, improving throughput and utilization by 15–20% across two work centers.</p>
       </div>
     </li>
   </ol>
   <a class="text-link section-link" href="{{ '/experience/' | relative_url }}">View work experience <span aria-hidden="true">→</span></a>
 </section>
-
-<aside class="feature-note" aria-label="Press mention">
-  <span class="feature-note__mark" aria-hidden="true">In the press</span>
-  <p>Featured in <a href="https://www.nytimes.com/interactive/2025/12/12/opinion/editorials/us-military-recruitment-culture.html" target="_blank" rel="noopener noreferrer">The New York Times <span class="external-indicator" aria-hidden="true">↗</span></a></p>
-</aside>
