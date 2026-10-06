@@ -67,7 +67,26 @@ permalink: /about/
       </p>
       <p>
         I enjoy travel and the outdoors. I’ve visited 15 countries and 12 national
-        parks, and I’m training to climb Mount Kilimanjaro in December 2026.
+        parks.
+      </p>
+      <h3>Family</h3>
+      <p>
+        I’m married to my wife, Madison. We have a German Shepherd named Luna and
+        a cat named Jenny, and we’re expecting our first child in spring 2027.
+      </p>
+      <h3>What I’m reading</h3>
+      <p>
+        <a href="https://andyweirauthor.com" target="_blank" rel="noopener noreferrer">Project Hail Mary</a>
+        and
+        <a href="https://www.amazon.com/Grit-Perseverance-Duckworth-2016-05-03-Hardcover/dp/B012TXOFXS" target="_blank" rel="noopener noreferrer">Grit</a>.
+      </p>
+      <h3>What I’m playing</h3>
+      <p>
+        <a href="https://www.expedition33.com" target="_blank" rel="noopener noreferrer">Clair Obscur: Expedition 33</a>.
+      </p>
+      <h3>What I’m training for</h3>
+      <p>
+        No event on the calendar yet—I’m rehabbing a foot I broke over the summer.
       </p>
     </div>
   </section>
