@@ -22,4 +22,6 @@ Use only user-supplied portfolio facts. The email is intentionally public; the r
 
 ## Standing scope
 
+Keep the landing-page timeline in reverse chronological order, with McKinsey first, followed by Haas, Aventra, the Army, and West Point, as requested by the user.
+
 Keep this project a root-level static Jekyll site for GitHub Pages. Do not introduce a separate preview application, backend, database, Node project, React/Vite scaffold, CMS, blog, contact form backend, or third-party trackers. Keep JavaScript minimal.
