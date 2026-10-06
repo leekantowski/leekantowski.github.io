@@ -1,0 +1,28 @@
+title: Lee Kantowski
+description: >-
+  Lee Kantowski is an MBA candidate at UC Berkeley Haas and former U.S. Army
+  officer with experience in consulting, defense technology, and operations.
+url: "https://leekantowski.github.io"
+baseurl: ""
+lang: en-US
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - PLAN.md
+  - replit.md
+  - node_modules
+  - vendor
+  - .bundle
+  - .cache
+  - .local
+  - .agents
+  - .conversation

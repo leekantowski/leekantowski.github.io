@@ -1,0 +1,22 @@
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Lee Kantowski — home">
+      <span class="wordmark__initials" aria-hidden="true">LK</span>
+      <span>Lee Kantowski</span>
+    </a>
+    <div class="site-header__tools">
+      <nav class="site-nav" aria-label="Main navigation">
+        {% for item in site.data.navigation %}
+          <a
+            href="{{ item.url | relative_url }}"
+            {% if page.url == item.url %}aria-current="page"{% endif %}
+          >{{ item.title }}</a>
+        {% endfor %}
+      </nav>
+      <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false" aria-label="Switch to dark theme">
+        <span class="theme-toggle__icon" aria-hidden="true"></span>
+        <span data-theme-label>Dark theme</span>
+      </button>
+    </div>
+  </div>
+</header>

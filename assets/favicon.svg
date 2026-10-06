@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title">
+  <title id="title">LK</title>
+  <rect width="48" height="48" rx="24" fill="#173c4a"/>
+  <path d="M13 11h4v22h12v4H13V11Zm17 0h4v14l8-9h5L38 26l9 11h-5l-8-9v9h-4V11Z" fill="#f4f6f5" transform="translate(-1) scale(.9 1)"/>
+</svg>
