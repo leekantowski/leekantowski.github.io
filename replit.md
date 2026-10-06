@@ -14,6 +14,8 @@ Static Jekyll site for `leekantowski.github.io`, intended for GitHub Pages from 
 
 Install Ruby and Bundler, run `bundle install`, then `bundle exec jekyll serve`. See `README.md` for publishing and Lighthouse guidance.
 
+Replit Preview uses the same root-level Jekyll site through its built-in `jekyll serve` command, listening on `0.0.0.0:5000`. Keep generated preview files outside the repository. This is a development preview, not a separate app or production backend.
+
 ## Content and privacy
 
 Use only user-supplied portfolio facts. The email is intentionally public; the résumé phone number is omitted. Do not fetch personal information from profile or article URLs.

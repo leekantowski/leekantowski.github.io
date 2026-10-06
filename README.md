@@ -12,6 +12,12 @@ A static Jekyll site for `leekantowski.github.io`. The pages are written in Mark
 
 ## Preview locally
 
+### In Replit
+
+Click **Run** to start **Jekyll Preview**, then open or refresh the **Preview** tab. This uses Jekyll itself to preview the root-level site, not a separate application. Generated preview files stay in `/tmp/lee-portfolio-preview`, outside the repository, and nothing is published to GitHub.
+
+### On your computer
+
 The `github-pages` gem in the `Gemfile` matches GitHub Pages' Jekyll environment.
 
 1. Install Ruby and Bundler.
