@@ -28,3 +28,18 @@ The intended repository is named `leekantowski.github.io`. Keep the Jekyll files
 ## Lighthouse
 
 Run Lighthouse in Chrome DevTools against the local preview or published site. Test both mobile and desktop, and review Performance, Accessibility, Best Practices, and SEO. The target is 90 or higher in each category; actual scores can vary with browser and network conditions.
+
+## Verification
+
+The GitHub Pages-compatible Jekyll build completed successfully. All four pages were checked at 375px and 1280px widths with no horizontal overflow, working navigation, and one primary heading per page. The theme toggle was checked for switching and persistence.
+
+Local mobile Lighthouse results:
+
+| Page | Performance | Accessibility | Best Practices | SEO |
+| --- | ---: | ---: | ---: | ---: |
+| Home | 100 | 100 | 100 | 100 |
+| About | 100 | 100 | 100 | 100 |
+| Work Experience | 100 | 100 | 100 | 100 |
+| Contact | 100 | 100 | 100 | 100 |
+
+These results are from a local static preview, not a published GitHub Pages deployment. The repository is on `main`, and all website source files are at its root.

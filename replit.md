@@ -17,3 +17,7 @@ Install Ruby and Bundler, run `bundle install`, then `bundle exec jekyll serve`.
 ## Content and privacy
 
 Use only user-supplied portfolio facts. The email is intentionally public; the résumé phone number is omitted. Do not fetch personal information from profile or article URLs.
+
+## Standing scope
+
+Keep this project a root-level static Jekyll site for GitHub Pages. Do not introduce a separate preview application, backend, database, Node project, React/Vite scaffold, CMS, blog, contact form backend, or third-party trackers. Keep JavaScript minimal.
