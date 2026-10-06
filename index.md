@@ -18,14 +18,10 @@ I’m Lee Kantowski, a former U.S. Army officer with experience in consulting, d
 
 <div class="hero__actions">
   <a class="button button--primary" href="{{ '/experience/' | relative_url }}">Explore my experience</a>
+  <a class="button button--primary" href="https://www.nytimes.com/interactive/2025/12/12/opinion/editorials/us-military-recruitment-culture.html" target="_blank" rel="noopener noreferrer">Featured in The New York Times <span class="external-indicator" aria-hidden="true">↗</span></a>
   <a class="text-link" href="{{ '/contact/' | relative_url }}">Get in touch <span aria-hidden="true">→</span></a>
 </div>
 </section>
-
-<aside class="feature-note" aria-label="Press mention">
-  <span class="feature-note__mark" aria-hidden="true">In the press</span>
-  <p>Featured in <a href="https://www.nytimes.com/interactive/2025/12/12/opinion/editorials/us-military-recruitment-culture.html" target="_blank" rel="noopener noreferrer">The New York Times <span class="external-indicator" aria-hidden="true">↗</span></a></p>
-</aside>
 
 <section class="home-section" aria-labelledby="experience-at-a-glance">
   <div class="section-heading">
@@ -34,27 +30,11 @@ I’m Lee Kantowski, a former U.S. Army officer with experience in consulting, d
   </div>
   <ol class="timeline timeline--home">
     <li class="timeline__item">
-      <p class="timeline__date">2013–2017</p>
+      <p class="timeline__date">Summer 2026</p>
       <div>
-        <h3>United States Military Academy</h3>
-        <p class="timeline__role">B.S., Engineering Management · West Point, NY</p>
-        <p>Earned the Superintendent’s Award for Achievement and made the Dean’s List for three semesters. Member of the powerlifting team for three years and a two-time varsity letterman.</p>
-      </div>
-    </li>
-    <li class="timeline__item">
-      <p class="timeline__date">2017–2025</p>
-      <div>
-        <h3>United States Army</h3>
-        <p class="timeline__role">Leadership and operational roles in the U.S. and Indo-Pacific</p>
-        <p>Led teams, managed resources, and improved planning and digital workflows across complex missions.</p>
-      </div>
-    </li>
-    <li class="timeline__item">
-      <p class="timeline__date">2025</p>
-      <div>
-        <h3>Aventra Defense Systems</h3>
-        <p class="timeline__role">Pre-MBA Product Management Intern · Herndon, VA</p>
-        <p>Worked with an early-stage defense technology team on funding, government contract strategy, and business development processes.</p>
+        <h3>McKinsey &amp; Company</h3>
+        <p class="timeline__role">Summer Associate · Seattle, WA</p>
+        <p>Supported an aerospace and defense manufacturer, improving throughput and utilization by 15–20% across two work centers.</p>
       </div>
     </li>
     <li class="timeline__item">
@@ -66,11 +46,27 @@ I’m Lee Kantowski, a former U.S. Army officer with experience in consulting, d
       </div>
     </li>
     <li class="timeline__item">
-      <p class="timeline__date">Summer 2026</p>
+      <p class="timeline__date">2025</p>
       <div>
-        <h3>McKinsey &amp; Company</h3>
-        <p class="timeline__role">Summer Associate · Seattle, WA</p>
-        <p>Supported an aerospace and defense manufacturer, improving throughput and utilization by 15–20% across two work centers.</p>
+        <h3>Aventra Defense Systems</h3>
+        <p class="timeline__role">Pre-MBA Product Management Intern · Herndon, VA</p>
+        <p>Worked with an early-stage defense technology team on funding, government contract strategy, and business development processes.</p>
+      </div>
+    </li>
+    <li class="timeline__item">
+      <p class="timeline__date">2017–2025</p>
+      <div>
+        <h3>United States Army</h3>
+        <p class="timeline__role">Leadership and operational roles in the U.S. and Indo-Pacific</p>
+        <p>Led teams, managed resources, and improved planning and digital workflows across complex missions.</p>
+      </div>
+    </li>
+    <li class="timeline__item">
+      <p class="timeline__date">2013–2017</p>
+      <div>
+        <h3>United States Military Academy</h3>
+        <p class="timeline__role">B.S., Engineering Management · West Point, NY</p>
+        <p>Earned the Superintendent’s Award for Achievement and made the Dean’s List for three semesters. Member of the powerlifting team for three years and a two-time varsity letterman.</p>
       </div>
     </li>
   </ol>
